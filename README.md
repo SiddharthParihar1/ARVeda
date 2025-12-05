@@ -7,7 +7,7 @@ ARVeda brings Ayurveda into the modern world using AI and AR. The app offers an 
 
 ## **Watch the Demo Video**
 
-https://github.com/user-attachments/assets/94c53a49-eadc-44d9-b8e6-2bb4f758d361
+https://drive.google.com/file/d/1k6Vy2ek7X02szD48f4p3CKdWH9JHfCpZ/view?usp=drive_link
 
 
 
